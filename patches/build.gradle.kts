@@ -1,14 +1,13 @@
-group = "app.template"
+group = "app.jrscripts"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "JR Morphe Patches"
+        description = "Custom community patches by jrscripts"
+        source = "https://github.com/jrscripts/jr-morphe-patches.git"
+        author = "jrscripts"
         contact = "na"
-        website = "na"
+        website = "https://github.com/jrscripts/jr-morphe-patches"
         license = "GPLv3"
     }
 }
